@@ -1,4 +1,4 @@
-Este projeto tem o intuito, de aprender o uso do GITHUB e implementar um Bando de Dados SQL.
+Este projeto tem o intuito, de aprender o uso do GITHUB e implementar um Banco de Dados SQL.
 
 Comandos básicos GIT
 - git status (Verifica se existem novas versões)
